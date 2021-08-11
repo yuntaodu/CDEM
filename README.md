@@ -1,5 +1,5 @@
 # Cross-domain error minimization for unsupervised domain adaptation(CDEM)
-This directory contains the code for paper Cross-domain error minimization for unsupervised domain adaptation.
+This directory contains the code for paper [Cross-domain error minimization for unsupervised domain adaptation](https://arxiv.org/abs/2106.15057).
 
 ## code and data
 
