@@ -13,12 +13,14 @@ You can run run_imageclef.m, run_office31.m and run_office10.m directly for the 
 - duyuntao@smail.nju.edu.cn
 
 # Reference
+```
 @article{Du2021CrossDomainEM,
   title={Cross-Domain Error Minimization for Unsupervised Domain Adaptation},
   author={Yuntao Du and Yinghao Chen and Fengli Cui and Xiaowen Zhang and Chong-Jun Wang},
   journal={DASFAA},
   year={2021},
   }
+ ```
 
 
 
