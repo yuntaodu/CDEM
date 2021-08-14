@@ -23,7 +23,7 @@ You can run `run_imageclef.m`, `run_office31.m` and `run_office10.m` directly fo
 </div>
 
 <div align = "center">
-<img src="https://z3.ax1x.com/2021/08/14/fyRbcD.png" width = "90%"/>
+<img src="https://z3.ax1x.com/2021/08/14/fyRbcD.png" width = "85%"/>
 <br>
 <div>figure3 Results on Office-31 dataset</div>
 <br>
